@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Which is the largest country of the world?",
+        "choice1": "Canada",
+        "choice2": "USA",
+        "choice3": "Russia",
+        "choice4": "India",
+        "answer" : 3
+    },
+    {
+        "question": "In which country is the world's highest waterfall?",
+        "choice1": "Argentina",
+        "choice2": "Venezuela",
+        "choice3": "Brazil",
+        "choice4": "Nigeria",
+        "answer" : 2
+    },
+    {
+        "question": "In which country is Mount Fuji located?",
+        "choice1": "Japan",
+        "choice2": "North Korea",
+        "choice3": "China",
+        "choice4": "Peru",
+        "answer" : 1
+    }
+]
