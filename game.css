@@ -82,7 +82,7 @@
     }
 }
 
-/* .time-out-bar {
+.time-out-bar {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -91,5 +91,5 @@
     background: #cce5ff;
     border: 0.1rem solid #56a5eb;
     padding: 0 1.5rem;
-} */
+}
 
